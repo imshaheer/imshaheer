@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 😄 I’m @imshaheer
+- 👀 I’m interested in Frontend Web Development
+- 🌱 I’m currently learning basics of Frontend Web Development
+- 📫 How to reach me: Contact me at imshaheer.cs@gmail.com
+
 
 <!--
 **imshaheer/imshaheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
